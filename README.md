@@ -27,4 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 ## MY ANGULAR APP LINK.
 * Here is the link of my angular app that i created using typescript.
-*                     =>
+*                     =>"https://angular-oz7ib66sh-srimannarayana-nainalas-projects.vercel.app/"
